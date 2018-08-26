@@ -39,6 +39,14 @@
 	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<hr>
 
+  <button type="button" class="btn btn-warning">Warning</button>
+<button type="button" class="btn btn-danger">Danger</button>
+<button type="button" class="btn btn-dark">Dark</button>
+<button type="button" class="btn btn-primary">Primary</button>
+<button type="button" class="btn btn-default">Default</button>
+<button type="button" class="btn btn-light">Light</button>
+<button type="button" class="btn btn-link">Link</button>
+
 
 </body>
 </html>

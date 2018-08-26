@@ -1,0 +1,12 @@
+commit abb40b26d5d7bd527f06c704e3d984da195045b0
+Author: Felipe <ljesus530@gmail.com>
+Date:   Fri Aug 24 21:21:33 2018 -0500
+
+    tercer commit sin navbar
+
+
+commit d15a9737c7ad6c1859168b35766720a3be2c1036
+Author: Felipe <ljesus530@gmail.com>
+Date:   Fri Aug 24 20:54:13 2018 -0500
+
+    mi primer commit
