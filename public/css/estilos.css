@@ -1,0 +1,7 @@
+#mibtn{
+transition: 0.3s;
+}
+
+#mibtn:hover{
+transform: scale(1.2);
+}
