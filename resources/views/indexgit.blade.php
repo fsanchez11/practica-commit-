@@ -11,8 +11,10 @@
 	<title>Practica con GIT</title>
 </head>
 <body>
-	<h1>Practicas </h1>
-	<hr>
+	<div class="jumbotron text-center">
+  <h1>My First Bootstrap Page</h1>
+  <p>Resize this responsive page to see the effect!</p> 
+</div>
 
 	<!-- A grey horizontal navbar that becomes vertical on small screens -->
 <nav class="navbar navbar-expand-sm bg-light">
